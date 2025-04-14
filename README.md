@@ -50,3 +50,7 @@ scRNA-shiny-app/
 ├── data/                # Sample or uploaded data
 └── R/                   # Modular R scripts (UI, server, functions)
 
+
+## Developers
+Vishnu Vijayan (Bioinformatics, IPB Halle)
+Methun George  (Bioinformatics, IPB Halle)
