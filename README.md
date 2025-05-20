@@ -10,15 +10,14 @@ Welcome to the **scRNA-seq Analysis Shiny App**, an interactive R Shiny applicat
 
 ## 🚀 Features (Planned)
 
-- Upload and process `.rds` or `.h5ad` single-cell data files
-- Quality control filtering (e.g., mitochondrial content, gene counts)
-- Normalization and scaling
-- PCA, UMAP, and t-SNE dimensionality reduction
-- Clustering and marker gene detection
-- Differential expression analysis
-- Interactive plots using `plotly`, `ggplot2`, and `Seurat`
-- Downloadable results and visualizations
-
+- Upload and process `.rds` or `.h5ad` single-cell data files.
+- Quality control filtering (e.g., mitochondrial content, gene counts).
+- Normalization and scaling.
+- PCA, UMAP, and t-SNE dimensionality reduction.
+- Clustering and marker gene detection.
+- Differential expression analysis.
+- Interactive plots using `plotly`, `ggplot2`, and `Seurat`.
+- Downloadable results and visualizations.
 ---
 
 ## 🧬 Target Users
