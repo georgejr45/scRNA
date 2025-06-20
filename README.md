@@ -6,7 +6,7 @@ Welcome to the **scRNA-seq Analysis Shiny App**, an interactive R Shiny applicat
 
 > 🚧 This project is in early development. Contributions, feedback, and feature requests are welcome!
 
----
+-----
 
 ## 🚀 Features (Planned)
 
